@@ -1,6 +1,6 @@
 #Learning Android#
 
-ingeniero Ariosto (¬.¬)
+ingeniero Ariosto
 ##
 los trabajos estan ordenados porcarpetas
 #Descripción de las carpetas#
