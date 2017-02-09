@@ -4,11 +4,14 @@ ingeniero Ariosto (¬.¬)
 ##
 los trabajos estan ordenados porcarpetas
 #Descripción de las carpetas#
-windowColor -> practica 1(botones quecambian de color el layout).
+`windowColor -> practica 1(botones quecambian de color el layout).
 sumador -> segunda practica (practica de las diapositivas "sumador").
-sumadorClasesInternas -> practica 2 (usa clases internas).
-con esto nuestra clase principal quedaria así.
-``` html
+sumadorClasesInternas -> practica 2 (usa clases internas).`
+
+##con esto nuestra clase principal quedaria así
+
+
+```java
 package sumadorclasesinternas;
 
 public class main {
