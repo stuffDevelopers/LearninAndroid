@@ -19,3 +19,6 @@ public class main {
     
 }
 ```    
+![Figura 13.4][6]
+
+ [6]: images/donut.png
